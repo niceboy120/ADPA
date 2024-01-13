@@ -1,4 +1,4 @@
-# Adaptive Decentralized Policies with Attention (ADPA)
+# Adaptive Decentralized Policies with Attention (ADPA) (Still in Dev)
 
 ## Overview
 The Adaptive Decentralized Policy with Attention (ADPA) is a novel approach in multi-agent reinforcement learning (MARL) that addresses challenges in large-scale, dynamic multi-agent environments. This repository contains the implementation of ADPA, which integrates an attention mechanism into decentralized policy learning to enhance agent performance and adaptability.
